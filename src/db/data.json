@@ -1,0 +1,54 @@
+{
+	"color": [
+		{
+			"id": "0",
+			"name": "black",
+			"src": "../imgs/black.png"
+		},
+		{
+			"id": "1",
+			"name": "blue",
+			"src": "../imgs/blue.png"
+		},
+		{
+			"id": "2",
+			"name": "gray",
+			"src": "../imgs/gray.png"
+		},
+		{
+			"id": "3",
+			"name": "green",
+			"src": "../imgs/green.png"
+		},
+		{
+			"id": "4",
+			"name": "navy",
+			"src": "../imgs/navy.png"
+		},
+		{
+			"id": "5",
+			"name": "orange",
+			"src": "../imgs/orange.png"
+		},
+		{
+			"id": "6",
+			"name": "pink",
+			"src": "../imgs/pink.png"
+		},
+		{
+			"id": "7",
+			"name": "purple",
+			"src": "../imgs/purple.png"
+		},
+		{
+			"id": "8",
+			"name": "red",
+			"src": "../imgs/red.png"
+		},
+		{
+			"id": "9",
+			"name": "yellow",
+			"src": "../imgs/yellow.png"
+		}
+	]
+}
